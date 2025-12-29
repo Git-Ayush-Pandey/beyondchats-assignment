@@ -1,0 +1,11 @@
+backend/node_modules/
+frontned/node_modules/
+
+frontend/.env
+backend/.env
+
+dist/
+build/
+.vite/
+.vscode/
+
