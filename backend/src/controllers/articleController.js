@@ -18,3 +18,7 @@ exports.updateArticle = async (req, res) => {
   );
   res.json(article);
 };
+exports.getArticleById = async (req, res) => {
+  const article = await Article.findById(req.params.id);
+  res.json(article);
+};
