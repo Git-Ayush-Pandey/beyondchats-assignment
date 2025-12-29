@@ -68,7 +68,6 @@ async function scrapeOldestArticles() {
   }
 }
 
-
 (async function run() {
   try {
     await connectDB();
