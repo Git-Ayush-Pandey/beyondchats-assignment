@@ -4,15 +4,15 @@
   "version": "0.0.0",
   "type": "module",
   "engines": {
-    "node": "20.x"
+    "node": "29.x"
   },
   "scripts": {
     "build": "vite build"
   },
   "devDependencies": {
-    "vite": "^7.3.0",
-    "@vitejs/plugin-react": "^5.1.2"
-  },
+  "vite": "^5.4.8",
+  "@vitejs/plugin-react": "^4.3.4"
+},
   "dependencies": {
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
