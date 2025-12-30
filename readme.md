@@ -155,6 +155,7 @@ http://localhost:5173
 ## 🌐 Live Demo
 
 Frontend Live Link: *(https://beyondchats1.netlify.app/)*
+Backend Live Link: *(https://beyondchats-assignment-backend-694r.onrender.com))*
 
 ---
 
