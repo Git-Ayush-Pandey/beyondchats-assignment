@@ -7,7 +7,7 @@
     "node": "20.x"
   },
   "scripts": {
-  "build": "npx vite@5.4.8 build"
+  "build": "vite build"
 },
   "devDependencies": {
   "vite": "^5.4.8",
